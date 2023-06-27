@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg" {
 
-  name     = "githubrg"
+  name = "githubrg"
 
   location = "East US"
 
